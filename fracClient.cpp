@@ -1,3 +1,11 @@
+/********************************************************************
+fracClient.coo
+------------
+By: Jessica Pagan Sanchez       August 20, 2013
+
+The main function and invocations of the functions.
+********************************************************************/
+
 #include <iostream>
 #include <cstdlib>
 #include "frac.h"

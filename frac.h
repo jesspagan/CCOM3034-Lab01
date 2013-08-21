@@ -1,3 +1,12 @@
+/********************************************************************
+frac.h
+------------
+By: Jessica Pagan Sanchez		August 20, 2013
+
+Implementations of data members and functions in the class Fraction 
+and global functions.
+********************************************************************/
+
 #ifndef FRAC_H
 #define FRAC_H
 
